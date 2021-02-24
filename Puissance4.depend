@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1603794835 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\joueur.cpp
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"joueur.h"
+
+1603098825 c:\users\yasmine\desktop\iut\algo\projet\puissance4\joueur.h
+
+1603794833 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\main.cpp
+	<stdio.h>
+	"puissance.h"
+	"joueur.h"
+	"puissanceTest.h"
+
+1600082108 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1600082904 c:\users\yasmine\desktop\iut\algo\projet\puissance4\unittest.h
+	<iostream>
+	<string>
+
+1603794715 c:\users\yasmine\desktop\iut\algo\projet\puissance4\puissance.h
+
+1603794891 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\puissance.cpp
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	"puissance.h"
+
+1602528983 c:\users\yasmine\desktop\iut\algo\projet\puissance4\test.cpp
+	<stdio.h>
+	"puissance.h"
+	"joueur.h"
+
+1602585858 source:z:\algo\projet\usb\puissance4\joueur.cpp
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"joueur.h"
+
+1602577202 z:\algo\projet\usb\puissance4\joueur.h
+
+1602586963 source:z:\algo\projet\usb\puissance4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"puissance.h"
+	"joueur.h"
+
+1602586858 z:\algo\projet\usb\puissance4\puissance.h
+
+1602586728 source:z:\algo\projet\usb\puissance4\puissance.cpp
+	<malloc.h>
+	<stdio.h>
+	"puissance.h"
+
+1600085708 source:z:\algo\projet\usb\puissance4\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1600086504 z:\algo\projet\usb\puissance4\unittest.h
+	<iostream>
+	<string>
+
+1603098218 c:\users\yasmine\desktop\iut\algo\projet\puissance4\puissancetest.h
+
+1603112446 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\puissancetest.cpp
+	"puissance.h"
+	"unittest.h"
+
+1603184804 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4\minmax.cpp
+	"minmax.h"
+
+1603184797 c:\users\yasmine\desktop\iut\algo\projet\puissance4\minmax.h
+	"puissance.h"
+
+1604318171 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\joueur.cpp
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	"joueur.h"
+
+1604318197 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\joueur.h
+
+1604311305 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\puissance.cpp
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	"puissance.h"
+
+1604320336 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\puissance.h
+
+1600082108 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1600082904 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\unittest.h
+	<iostream>
+	<string>
+
+1604329113 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\main.cpp
+	<stdio.h>
+	"puissance.h"
+	"joueur.h"
+	"puissanceTest.h"
+	"minmax.h"
+	"minmaxTest.h"
+
+1603098218 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\puissancetest.h
+
+1604279447 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\puissancetest.cpp
+	"puissance.h"
+	"unittest.h"
+
+1604321384 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\minmax.cpp
+	<malloc.h>
+	"minmax.h"
+
+1604327107 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\minmax.h
+	<stdio.h>
+	"puissance.h"
+
+1604329051 source:c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\minmaxtest.cpp
+	<stdio.h>
+	<string.h>
+	"minmaxTest.h"
+	"unittest.h"
+
+1604240980 c:\users\yasmine\desktop\iut\algo\projet\puissance4 v2\minmaxtest.h
+	"minmax.h"
+

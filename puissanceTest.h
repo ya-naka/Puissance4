@@ -1,0 +1,6 @@
+#ifndef PUISSANCETEST_H_INCLUDED
+#define PUISSANCETEST_H_INCLUDED
+
+void puissanceTest();
+
+#endif // PUISSANCETEST_H_INCLUDED
